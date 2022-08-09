@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.container{
+    /* border: 3px solid red; */
+    width: 1020px;
+    height: 760px;
+    margin: auto;
+}
+
+
+#navbar{
+    /* border: 3px solid red; */
+    background-color: gray;
+    color: white;
+
+}
+
+#menu li{
+    list-style: none;
+    display: inline-flex;
+    padding-left: 12px;
+    margin: 8px;
+    font-size: small;
+    
+}
+main{
+    height: 250px;
+    /* margin: 5px; */
+    background-color: rgba(83, 83, 83, 0.39);
+    color: white;
+    
+}
+#info{
+    color: black;
+    /
+}
+h3,h1{
+    text-align: center;
+    position: relative;
+    top: 60px;
+    color: white;
+}
+#net{
+    
+    width: 250px;
+    height: 200px;
+    position: relative;
+    top: 50px;
+    right: -50px;
+    
+}
+#native{
+    
+    width: 250px;
+    height: 200px;
+    position: relative;
+    top: -150px;
+    right: -380px;
+}
+#kendo{
+    
+    width: 250px;
+    height: 200px;
+    position: relative;
+    top: -350px;
+    right: -700px;
+}
+h2{
+    text-align: center;
+    margin-top: 20px;
+}
+
+h5{
+    text-align: center;
+    margin-top: 20px;
+}
+#button1{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 70px;
+    padding: 5px;
+    width: 100px;
+    height: 30px;
+    background-color: rgb(128, 204, 15);
+    border: none;
+    color: white;
+}
+#button2{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 70px;
+    padding: 5px;
+    width: 100px;
+    height: 30px;
+    background-color: rgb(27, 87, 218);
+    border: none;
+    color: white;
+}
+#button3{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 70px;
+    padding: 5px;
+    width: 100px;
+    height: 30px;
+    background-color: rgb(233, 51, 38);
+    border: none;
+    color: white;
+}
+#nettitle{
+    margin-left: 100px;
+}
+#nativetitle{
+    margin-left: 70px;
+}
+#kendotitle{
+    margin-left: 95px;
+}
+section{
+    /* border: 3px solid red; */
+    
+}
+#logo{
+    <i class="fa-thin fa-alicorn"></i>
+}
